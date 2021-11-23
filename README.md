@@ -1,3 +1,3 @@
 # taskinator
 
-- feature/task-persistence - uses LocalStorage
+- branch: "feature/task-persistence" - uses LocalStorage
